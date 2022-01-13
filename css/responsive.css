@@ -1,0 +1,133 @@
+@media only screen and (min-width: 320px) and (max-width:575px ){
+    h2 {
+        font-weight: 700;
+        font-size: 2.2rem;
+    }
+    .navbar-nav {
+        padding-left: 44%;
+        padding-top: 5%;
+    }
+    .search-box .search-btn.active {
+        right: 26%;
+    }
+    .search-box .search-btn {
+        top: 91%;
+        right: 38%;
+    }
+    .search-box .cancel-btn.active {
+        right: 8%;
+    }
+    .search-box .cancel-btn {
+        right: 33%;
+        top: 91%;
+    }
+    .search-box.active {
+        
+        margin-left: 28%;
+    }
+    .amazing-dancer-text button {
+        margin-left: 6%;
+        padding: 5%;
+    }
+    .newsletter .common-btn {
+        margin-left: 23%;
+        margin-top:15px;
+    }
+    .newsletter .form-control {
+        margin-left: 18%;
+    }
+    .newsletter .form-control {
+        width: 73%;
+    }
+
+
+}
+@media only screen and (min-width: 576px) and (max-width:767px ){
+    h2 {
+        font-weight: 700;
+        font-size: 2.2rem;
+    }
+    .navbar-nav {
+        padding-left: 44%;
+        padding-top: 5%;
+    }
+    .search-box .search-btn.active {
+        right: 34%;
+    }
+    .search-box .search-btn {
+        top: 91%;
+        right: 48%;
+    }
+    .search-box .cancel-btn.active {
+        right: 25%;
+    }
+    .search-box .cancel-btn {
+        right: 46%;
+        top: 91%;
+    }
+    .search-box.active {
+        
+        margin-left: 32%;
+    }
+    .newsletter .common-btn {
+        margin-left: 23%;
+        margin-top:15px;
+    }
+    .newsletter .form-control {
+        margin-left: 18%;
+    }
+    .newsletter .form-control {
+        width: 73%;
+    }
+
+}
+@media only screen and (min-width: 768px) and (max-width:991px ){
+    h2 {
+        font-weight: 700;
+        font-size: 2.2rem;
+    }
+    .navbar-nav {
+        padding-left: 44%;
+        padding-top: 5%;
+    }
+    .search-box .search-btn.active {
+        right: 32%;
+    }
+    .search-box .search-btn {
+        top: 91%;
+        right: 48%;
+    }
+    .search-box .cancel-btn.active {
+        right: 25%;
+    }
+    .search-box .cancel-btn {
+        right: 46%;
+        top: 91%;
+    }
+    .search-box.active {
+        
+        margin-left: 26%;
+    }
+
+}
+@media only screen and (min-width: 992px) and (max-width:1199px ){
+    h2 {
+        font-size: 3.0rem;
+    }
+    .navbar-nav {
+        padding-left: 5%;
+    }
+    .d-flex {
+        width: 279px;
+    }
+    .search-box.active {
+        width: 300px;
+        margin-right: 16px;
+    }
+}
+@media only screen and (min-width: 1200px) and (max-width:1399px ){
+
+}
+@media only screen and (min-width: 1400px) and (max-width:1600px ){
+
+}
